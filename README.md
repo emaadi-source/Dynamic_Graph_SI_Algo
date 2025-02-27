@@ -21,7 +21,7 @@ Performance evaluation in adaptive network systems.
 # Installation & Setup
 Clone the Repository
 
-git clone https://github.com/yourusername/DynamicGraphSI.git
+git clone https://github.com/emaadi-source/DynamicGraphSI.git
 cd DynamicGraphSI
 # Compile the Code
 
