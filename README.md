@@ -1,4 +1,4 @@
-# Dynamic_Graph_SI
+# Dynamic_Graph_SI_Algo
 # Overview
 DynamicGraphSI is a C++ implementation of a subgraph isomorphism (SI) algorithm tailored for dynamic graphs. The project integrates concepts from discrete mathematics and data training, enabling the detection of temporally ordered patterns in evolving networks. It extends the VF3 algorithm to efficiently identify isomorphic subgraphs across sequential snapshots, preserving both structure and chronology.
 
